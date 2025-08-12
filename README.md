@@ -17,28 +17,28 @@ In this fun and creative assignment, you will work on styling a webpage that sho
 **Part 1: Inline Styling (`rocket-inline.html`)**
 
 1. Render a divider element `<div>` to hold information about the toy
-   - Render the header "Space Rocket Adventure!" inside the div
-   - Render the image of the toy (RocketToy.jpg) inside the div
+   - [x] Render the header "Space Rocket Adventure!" inside the div
+   - [x] Render the image of the toy (RocketToy.jpg) inside the div
   
 2. Use inline styling to:
-   - Change the background color of the `<div>` to sky blue.
-   - Change the text color to bright yellow.
-   - Move the header to the horizontal center of the page
-   - Move the image to the horizontal center of the page 
+   - [x] Change the background color of the `<div>` to sky blue.
+   - [x] Change the text color to bright yellow.
+   - [x] Move the header to the horizontal center of the page
+   - [x] Move the image to the horizontal center of the page 
 
 
 **Part 2: Style Elements (`rocket-style.html`)**
 
 1. Render a divider element `<div>` to hold information about the toy
-   - Render the header "Space Rocket Adventure!" inside the div
-   - Render the image of the toy (RocketToy.jpg) inside the div
+   - [x] Render the header "Space Rocket Adventure!" inside the div
+   - [x] Render the image of the toy (RocketToy.jpg) inside the div
   
 2. Add a style element `<style>` at the top of the page.
-    - Define a style-block for a class called "rocket-div"
-        - Inside the style-block, set the background color to midnight blue.
-        - Inside the style-block, set the text color to silver.
-        - Move the header to the horizontal center of the page.
-        - Move the image to the horizontal center of the page.
-    - Assign the div element to the rocket-div class
+    - [x] Define a style-block for a class called "rocket-div"
+        - [x] Inside the style-block, set the background color to midnight blue.
+        - [x] Inside the style-block, set the text color to silver.
+        - [x] Move the header to the horizontal center of the page.
+        - [x] Move the image to the horizontal center of the page.
+    - [x] Assign the div element to the rocket-div class
 
 Take a look at the Example folder for an idea of how the end result should look.
